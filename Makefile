@@ -4,16 +4,18 @@
 # When run as just 'make', build the HTML from markdown w/ Jekyll
 default: build
 
+JEKYLLOPTS=--baseurl=""
+
 clean:
 	rm -rf ./_site/
 
 build:
 	# Build HTML from markdown w/ Jekyll
-	jekyll build
+	jekyll build $(JEKYLLOPTS)
 
 serve:
 	# Auto-rebuild HTML from markdown w/ Jekyll and serve
-	jekyll serve
+	jekyll serve $(JEKYLLOPTS)
 	#x-www-browser http://localhost:4000/
 
 pull:
