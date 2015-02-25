@@ -3,7 +3,7 @@ title: screenplays
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   A blog for screenplays.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "screenplays" # the subpath of your site, e.g. /blog/
 url: "https://westurner.github.io" # the base hostname & protocol for your site
 twitter_username: westurner
 github_username:  westurner
