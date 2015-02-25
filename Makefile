@@ -32,4 +32,6 @@ env:
 
 install:
 	# Install jekyll
-	gem install jekyll
+	# gem install github-pages # jekyll
+	gem install bundler
+	bundle install
