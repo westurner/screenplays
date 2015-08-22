@@ -5,6 +5,7 @@ date:   2015-08-22 00:55:55
 categories: screenplays
 ---
 
+```
 It was unclear whether
 he had been supposed to be writing a screenplay;
 or something else, rather.
@@ -130,6 +131,6 @@ I should learn to teach.
 She can't even hear me
 gently rapping.
 
-"I can hear you fr\*\*\*ing wrapping."
-
+"I can hear you fr***ing wrapping."
+```
 
