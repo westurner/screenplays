@@ -4,19 +4,24 @@
 # When run as just 'make', build the HTML from markdown w/ Jekyll
 default: build
 
-JEKYLLOPTS=--baseurl=""
+JEKYLLBASEURL="/screenplays/"
+JEKYLLOPTS=
+#JEKYLLOPTS=--baseurl=""
 
 clean:
 	rm -rf ./_site/
 
 build:
 	# Build HTML from markdown w/ Jekyll
-	jekyll build $(JEKYLLOPTS)
+	jekyll build -V $(JEKYLLOPTS)
 
 serve:
 	# Auto-rebuild HTML from markdown w/ Jekyll and serve
 	jekyll serve $(JEKYLLOPTS)
 	#x-www-browser http://localhost:4000/
+
+open:
+	web "http://localhost:4000$(JEKYLLBASEURL)"
 
 pull:
 	# Pull latest changes from origin gh-pages branch
