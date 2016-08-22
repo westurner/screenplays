@@ -1,0 +1,42 @@
+
+---
+layout: post
+title:  "He Said"
+date:   2016-08-16 17:57:06
+categories: screenplays
+---
+
+```
+INT. An island office
+
+HIM
+"Do you want to play house with me?"
+
+HER
+[smile]
+"Uh huh"
+
+HIM
+"Forever!?"
+
+HER
+[smile]
+"Uh huh" 
+
+[embrace; moments for]
+
+HIM
+"Okay, well, I have some things to show you"
+[looks down, drawing a shape on the desk]
+
+HER
+"Some things?" [wry smile]
+
+HIM
+"Uh huh, some things"
+
+
+Alternate titles:
+- "He didn't tell her until"
+- "She said 'uh huh'"
+```
