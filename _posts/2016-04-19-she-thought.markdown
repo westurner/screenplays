@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "She thought"
+title:  "She Thought"
 date:   2016-04-19 20:48:30
 categories: screenplays
 ---
