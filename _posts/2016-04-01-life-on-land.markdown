@@ -7,7 +7,7 @@ categories: screenplays
 
 [LifeOnLand.fountain](/screenplays/-/LifeOnLand/LifeOnLand.fountain)
 
-```
+```fountain
 Title: Life on Land
 Credit: written by
 Author: Wes Turner

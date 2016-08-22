@@ -5,7 +5,7 @@ date:   2016-08-16 17:57:06
 categories: screenplays
 ---
 
-```
+```fountain
 INT. An island office
 
 HIM

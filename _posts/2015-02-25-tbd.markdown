@@ -7,7 +7,7 @@ categories: screenplays
 
 [tbd.fountain](/screenplays/-/tbd/tbd.fountain)
 
-```
+```fountain
 Title: TBD
 Credit: written by
 Author: Wes Turner

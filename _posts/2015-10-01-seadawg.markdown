@@ -5,7 +5,7 @@ date:   2015-10-01 07:24:00
 categories: screenplays
 ---
 
-```
+```fountain
 
 A wide stance,
 on account of the sea.

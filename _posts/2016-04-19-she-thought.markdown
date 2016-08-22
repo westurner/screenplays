@@ -5,7 +5,7 @@ date:   2016-04-19 20:48:30
 categories: screenplays
 ---
 
-```
+```fountain
 She thought he was her friend.
 
 It was hot,

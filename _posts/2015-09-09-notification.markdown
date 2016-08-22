@@ -5,7 +5,7 @@ date:   2015-09-01 00:00:01
 categories: screenplays
 ---
 
-```
+```fountain
 "Better to test these things out,"
 they agreed.
 

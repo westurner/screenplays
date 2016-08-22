@@ -6,7 +6,7 @@ categories: screenplays
 ---
 
 
-```
+```fountain
 Title: Another Thing
 Credit: written by
 Author: Wes Turner

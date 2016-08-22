@@ -6,7 +6,7 @@ categories: screenplays
 ---
 
 
-```
+```fountain
 Title: A Place of His Own
 Credit: written by
 Author: Wes Turner
