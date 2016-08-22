@@ -6,11 +6,6 @@ categories: screenplays
 ---
 
 ```
-Title: Happenstance
-Credit: written by
-Author: Wes Turner
-Copyright: All rights reserved.
-
 
 "I want you to call me
 Happenstance"
