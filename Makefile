@@ -34,6 +34,7 @@ env:
 
 install:
 	# Install jekyll
+	# dnf install -y ruby-devel || apt-get install -y ruby-dev
 	# gem install github-pages # jekyll
 	gem install bundler
 	bundle install
